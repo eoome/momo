@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/signals_history.json
+data/t0_etf_list.json
+data/positions.json
+data/trades.json
+data/recommendations.json
